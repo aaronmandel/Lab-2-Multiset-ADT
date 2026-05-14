@@ -11,5 +11,7 @@ public abstract class MultiSet {
     abstract void add(Integer item);
     abstract void sadsak();
     abstract boolean testingthing();
+    abstract boolean testingthing2();
+
 
 }
