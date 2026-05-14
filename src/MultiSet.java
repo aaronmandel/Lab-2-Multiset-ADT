@@ -9,6 +9,10 @@ public abstract class MultiSet {
      * @param item the item to add
      */
     abstract void add(Integer item);
+    abstract void sadsak();
+    abstract boolean testingthing();
+    abstract boolean testingthing2();
+
 
     // TODO finish adding abstract methods to fully describe what it means to be a MultiSet.
 
