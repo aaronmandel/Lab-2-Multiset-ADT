@@ -14,4 +14,12 @@ public abstract class MultiSet {
     abstract boolean testingthing2();
 
 
+    // TODO finish adding abstract methods to fully describe what it means to be a MultiSet.
+
+    /*
+
+
+
+    HELLO WORLD - Hok Chiu
+     */
 }
